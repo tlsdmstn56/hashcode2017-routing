@@ -4,3 +4,5 @@ for file in "${inputs[@]}"; do
     echo "Running $file"
     ./run.sh $file
 done
+
+# test
